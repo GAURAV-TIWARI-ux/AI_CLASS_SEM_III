@@ -1,1 +1,1 @@
-# AI_CLASS_SEM_III
+In this, there are assignments and Questions of this course.
